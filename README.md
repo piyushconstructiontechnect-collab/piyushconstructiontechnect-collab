@@ -1,56 +1,45 @@
 <h1 align="center">Hi 👋, I'm Piyush Kumar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=0AFFEF&center=true&vCenter=true&width=900&lines=Flutter+Developer;Mobile+Application+Developer;Java+Developer;Firebase+%7C+REST+API;Always+Learning+New+Technologies+🚀" />
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=00C853&style=for-the-badge" />
-<img src="https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge"/>
-<img src="https://img.shields.io/github/stars/YOUR_USERNAME?style=for-the-badge"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MCA+Student;Flutter+Developer;Java+Learner;Building+Mobile+Applications;Always+Learning+🚀" />
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🚀 MCA Student
-
-📱 Flutter Developer
-
-☕ Java Developer
-
-🔥 Firebase & REST API
-
-🎯 Passionate about Mobile App Development
-
-💡 Learning Clean Architecture & System Design
+- 🎓 MCA Student
+- 📱 Flutter Developer
+- ☕ Learning Java & DSA
+- 🔥 Working with Firebase & REST APIs
+- 💼 Currently contributing to company projects
+- 🌱 Exploring Clean Architecture & Backend Development
 
 ---
 
-# 💻 Tech Stack
+## 🚀 Tech Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,java,kotlin,androidstudio,supabase,nodejs,html,css,js,mysql,git,github,vscode,figma"/>
+<img src="https://skillicons.dev/icons?i=flutter,dart,java,firebase,supabase,androidstudio,git,github,mysql,vscode,figma"/>
 
 </p>
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Stats
 
 <p align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 🔥 Contribution Graph
+## 📈 Contribution Graph
 
 <p align="center">
 
@@ -60,64 +49,32 @@
 
 ---
 
-# 🏆 GitHub Trophies
+## 📌 Current Focus
 
-<p align="center">
+📱 Flutter Apps
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+🏢 Company Projects
 
-</p>
+📚 Data Structures & Algorithms
 
----
-
-# 🚀 Current Focus
-
-📱 Flutter Applications
-
-☁ Firebase
-
-🧠 Clean Architecture
-
-⚡ Performance Optimization
-
-🤖 AI Integration
+🚀 Building Better UI/UX
 
 ---
 
-# 📌 Featured Projects
+## ⚡ Fun Fact
 
-🏠 Rentora
-
-📱 Flutter UI Collection
-
-☕ Java Projects
-
-🌐 News Application
-
-💼 Company Projects
-
----
-
-# 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
+```dart
+while(alive){
+    learn();
+    build();
+    improve();
+}
+```
 
 ---
 
 <p align="center">
 
 ⭐ Thanks for visiting my profile ⭐
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C853,100:00E5FF&height=120&section=footer"/>
 
 </p>
